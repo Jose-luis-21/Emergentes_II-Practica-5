@@ -13,3 +13,7 @@ Captura
 
 ![img1](https://user-images.githubusercontent.com/54046238/83953454-8c97f980-a80e-11ea-86de-6c794d6515b7.png)
 
+## Se registro el producto con exito.
+
+![img2](https://user-images.githubusercontent.com/54046238/83953508-f0babd80-a80e-11ea-891b-10eae159b67e.png)
+
