@@ -25,3 +25,7 @@ Captura
 
 ![img4](https://user-images.githubusercontent.com/54046238/83953642-d46b5080-a80f-11ea-8f23-cb742b708ee9.png)
 
+## Eliminar registros de la tabla Productos.
+
+![img5](https://user-images.githubusercontent.com/54046238/83953674-15636500-a810-11ea-8044-e2ae35d4912e.png)
+
