@@ -1,9 +1,10 @@
 # Emergentes_II-Practica-5
 Patron de Diseño DAO
+Para gestionar los productos de un almacén.
 # Descargar el Codigo
 >$ git clone https://github.com/Jose-luis-21/Emergentes_II-Practica-5.git
 
-Captura
+Capturas de la Aplicacion
 ---
 ## Vista de la Aplicacion.
 
