@@ -29,3 +29,6 @@ Captura
 
 ![img5](https://user-images.githubusercontent.com/54046238/83953674-15636500-a810-11ea-8044-e2ae35d4912e.png)
 
+## El producto fue eliminado correctamente.
+
+![img6](https://user-images.githubusercontent.com/54046238/83953698-55c2e300-a810-11ea-9a34-cc583cce331a.png)
