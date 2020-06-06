@@ -21,3 +21,7 @@ Captura
 
 ![img3](https://user-images.githubusercontent.com/54046238/83953599-7ccce500-a80f-11ea-8eac-76446ab58b1c.png)
 
+## Se edito el registro correctamente.
+
+![img4](https://user-images.githubusercontent.com/54046238/83953642-d46b5080-a80f-11ea-8f23-cb742b708ee9.png)
+
