@@ -17,3 +17,7 @@ Captura
 
 ![img2](https://user-images.githubusercontent.com/54046238/83953508-f0babd80-a80e-11ea-891b-10eae159b67e.png)
 
+## Editar los datos registrados en la tabla Productos
+
+![img3](https://user-images.githubusercontent.com/54046238/83953599-7ccce500-a80f-11ea-8eac-76446ab58b1c.png)
+
